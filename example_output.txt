@@ -1,0 +1,10 @@
+getRadius(): 5
+getDiameter(): 10
+getArea(): 78.53981633974483
+getCircumference(): 31.41592653589793
+
+Circle details:
+  Radius: 5
+  Diameter: 10
+  Area: 78.53981633974483
+  Circumference: 31.41592653589793
