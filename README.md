@@ -3,7 +3,7 @@
 ## Project Manager Statement
 
 Please create documentation for people who need to use `Circle` but are not
-software engineers. Assume no Python knowledge. Explain essential terms and
+software engineers. Explain essential terms and
 provide clear instructions covering:
 
 - Setup and creating `Circle(radius)`.
