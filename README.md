@@ -2,7 +2,7 @@
 
 ## Project Manager Statement
 
-Please create `USER_GUIDE.md` for people who need to use `Circle` but are not
+Please create documentation for people who need to use `Circle` but are not
 software engineers. Assume no Python knowledge. Explain essential terms and
 provide clear instructions covering:
 
